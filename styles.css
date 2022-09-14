@@ -38,12 +38,6 @@ body {
   text-align: center;
 }
 
-.header {
-  text-align: center;
-  padding-bottom: 3rem;
-  color: #ffffff;
-}
-
 .shape {
   position: absolute;
   background-color: var(--transp-white-1);
